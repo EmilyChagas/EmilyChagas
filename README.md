@@ -10,7 +10,7 @@
 
 #
 <div>
-<img align="right" alt="" height="150px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdobGJhbmR5Nm5iMng3NXJwYXFiZzk3bmtvdjB3ZGVuMGVnMTZqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="" height="150px" src="src/Woman Coding GIF by Pluralsight.gif">
 </div>
 <h3 align="left">Connect with me!</h3>
 
