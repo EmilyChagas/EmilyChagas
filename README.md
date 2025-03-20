@@ -6,7 +6,7 @@
 
 #
 <h3 align="left">Olá, meu nome é Emily!</h3>
-<p align="left"> E Apaixonada por tecnologia e buscando ampliar meus horizontes, ingressei no Tecnólogo em Analise e Desenvolvimento de Sistema na Fatec Ipiranga. Atualmente, trabalho com analise de dados e paralelamente estudo java e front-end.</p>
+<p align="left"> Apaixonada por tecnologia e buscando ampliar meus horizontes, ingressei no Tecnólogo em Analise e Desenvolvimento de Sistema na Fatec Ipiranga. Atualmente, trabalho com analise de dados e paralelamente estudo java e front-end.</p>
 
 #
 <img align="right" alt="" height="150px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdobGJhbmR5Nm5iMng3NXJwYXFiZzk3bmtvdjB3ZGVuMGVnMTZqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
