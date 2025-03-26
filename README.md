@@ -10,7 +10,7 @@
 
 #
 
-<img align="right" alt="" height="150px" src="src/Woman Coding GIF by Pluralsight.gif">
+<img alt="" height="150px" src="src/Woman Coding GIF by Pluralsight.gif">
 
 <h3 align="left">Connect with me!</h3>
 
